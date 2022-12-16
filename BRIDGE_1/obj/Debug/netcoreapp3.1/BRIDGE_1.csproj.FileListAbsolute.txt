@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\bin\Debug\netcoreapp3.1\BRIDGE_1.exe
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\bin\Debug\netcoreapp3.1\BRIDGE_1.deps.json
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\bin\Debug\netcoreapp3.1\BRIDGE_1.runtimeconfig.json
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\bin\Debug\netcoreapp3.1\BRIDGE_1.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\bin\Debug\netcoreapp3.1\BRIDGE_1.dll
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\bin\Debug\netcoreapp3.1\BRIDGE_1.pdb
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.dll
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.pdb
+C:\Users\DELL\Desktop\Bridge\BRIDGE_1\obj\Debug\netcoreapp3.1\BRIDGE_1.genruntimeconfig.cache

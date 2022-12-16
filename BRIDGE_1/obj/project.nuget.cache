@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6V9Km2JPlZ8QAv+AoriwaDSPA3Nehildm6rqApMXKAsAfN+ZkjhiiucfVOuk8AwV7uyH0kPFlqMfe70+w+AoGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\Bridge\\BRIDGE_1\\BRIDGE_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
